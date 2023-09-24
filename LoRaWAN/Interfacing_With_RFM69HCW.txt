@@ -1,0 +1,11 @@
+PINOUTS:
+https://learn.adafruit.com/adafruit-rfm69hcw-and-rfm96-rfm95-rfm98-lora-packet-padio-breakouts/pinouts
+
+ARDUINO WIRING:
+https://learn.adafruit.com/adafruit-rfm69hcw-and-rfm96-rfm95-rfm98-lora-packet-padio-breakouts/arduino-wiring
+
+LIBRARY:
+https://github.com/adafruit/RadioHead/archive/master.zip
+
+LIBRARY USAGE:
+https://learn.adafruit.com/adafruit-rfm69hcw-and-rfm96-rfm95-rfm98-lora-packet-padio-breakouts/using-the-rfm69-radio

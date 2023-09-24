@@ -1,0 +1,12 @@
+https://arduino.stackexchange.com/questions/473/how-do-i-burn-the-bootloader/474#474
+https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP
+
+To burn the bootloader:
+
+Obtain an AVR ISP, USBtinyISP, ParallelProgrammer, or similar; or use another Arduino board. This will be your ISP.
+Unless otherwise instructed, connect the ISP to the ICSP pins on your board.
+Power your board with either a USB cable or an external power supply.
+Open up the Arduino IDE.
+Make sure you selected the correct board that you are burning to at Tools ► Board ► in the IDE. Double-check this even if you could upload programs correctly; uploading doesn't always require the right board.
+Select the appropriate programmer at Tools ► Programmer ►.
+Click Tools ► Burn Bootloader, and wait. It shouldn't take more than a minute, and often takes only a few seconds.
