@@ -1,0 +1,6 @@
+# Arduino_Snippets
+A collection of arduino snippets that I often use for my freelance projects.
+
+_If you liked my hard work, I would really appreciate if you can buy some coffee for me._
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/frosteen)
