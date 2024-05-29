@@ -2,10 +2,8 @@
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-void setup()
-{
+void setup() {
   lcd.init();
-
   lcd.backlight();
   lcd.setCursor(3, 0);
   lcd.print("Hello, world!");
@@ -17,6 +15,5 @@ void setup()
   lcd.print("Power By Ec-yuan!");
 }
 
-void loop()
-{
+void loop() {
 }
